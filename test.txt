@@ -1,0 +1,6 @@
+item_id;customer_id;comment
+3723;28;comment text 2
+3760;15;comment text 3
+3794;16;comment text 4
+3797;19;comment text 5
+khlhll
